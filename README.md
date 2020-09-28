@@ -22,7 +22,7 @@ python password-gen.py
 <br/>
 
 ### Thank you!
-If you like it, then Star it and donate if you want. <br/>
+If you like it, then rate it and donate if you want. <br/>
 <br/>
 Bitcoin: 1DnFABekbJ3TpdxYuaKbTwuNz6kYnvfSTa   <br/>
 
